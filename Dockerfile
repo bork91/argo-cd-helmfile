@@ -85,7 +85,7 @@ ARG HELM2_VERSION="v2.17.0"
 # https://github.com/helm/helm/releases
 ARG HELM3_VERSION="v3.16.1"
 # https://github.com/helmfile/helmfile/releases
-ARG HELMFILE_VERSION="0.168.0"
+ARG HELMFILE_VERSION="v1.0.0-rc8"
 # https://github.com/kubernetes-sigs/kustomize/releases
 ARG KUSTOMIZE5_VERSION="5.4.3"
 # https://github.com/getsops/sops/releases
